@@ -1,1 +1,1 @@
-# AnomalyDetR
+# AnomalyDeTR
