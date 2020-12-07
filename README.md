@@ -9,7 +9,7 @@ AnomalyDeTR is the [Dokuz Eylul University](https://www.deu.edu.tr/en/) Outlier 
 - Goldstein and Dengel (2012) HBOS algorithm ([link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.401.5686&rep=rep1&type=pdf))
 - Breunig and et al. (2000) LOF algorithm ([link](https://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf))
 - k-NN Global Anomaly Score
-- Connectivity-based Outlier Factor (COF)
+- Connectivity-based Outlier Factor (COF) ([link](http://www.cse.cuhk.edu.hk/~adafu/Pub/pakdd02.pdf))
 - Clustering-Based Local Outlier Factor (CBLOF)
 - Fast outlier detection using the local correlation integral (LOCI)
 
