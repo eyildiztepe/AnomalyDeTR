@@ -10,7 +10,7 @@ AnomalyDeTR is the [Dokuz Eylul University](https://www.deu.edu.tr/en/) Outlier 
 - Breunig and et al. (2000) LOF algorithm ([link](https://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf))
 - k-NN Global Anomaly Score
 - Connectivity-based Outlier Factor (COF) ([link](http://www.cse.cuhk.edu.hk/~adafu/Pub/pakdd02.pdf))
-- Clustering-Based Local Outlier Factor (CBLOF) ([link] (http://www.dis.uniroma1.it/~sassano/STAGE/Outliers.pdf))
+- Clustering-Based Local Outlier Factor (CBLOF) 
 - Fast outlier detection using the local correlation integral (LOCI)
 
 
